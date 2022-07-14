@@ -9,7 +9,14 @@ This repo contains the PyTorch implementation of our NeurIPS'21 paper, [Sageflow
 
 ## Requirements
 
-Install all necessary packages from requirements.txt
+This code was tested on the following environments:
+
+* Ubuntu 18.04
+* Python 3.7.13
+* PyTorch 1.12.0
+* CUDA 11.6
+
+You can install all necessary packages from requirements.txt
 
 ```
 pip install -r requirements.txt
